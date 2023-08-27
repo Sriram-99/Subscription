@@ -1,2 +1,2 @@
- const proxy="http://localhost:5000";
+ const proxy="https://richpanel-server.onrender.com";
  export default proxy;
