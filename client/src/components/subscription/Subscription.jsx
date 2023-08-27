@@ -1,5 +1,5 @@
 import React,{useState,useEffect} from 'react';
-import './Subscription.css';
+
 import Paybutton from './Paybutton'
 import axios from 'axios';
 import proxy from '../../actions/proxy';
