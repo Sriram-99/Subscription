@@ -8,7 +8,7 @@ const { compareSync } = require('bcryptjs');
 const formatDate =require('../utils/formatedate');
 const config=require('config');
 const STRIPE_KEY=config.get('STRIPE_KEY');
-const CLIENT_URL=config.get('CLIENT_URL');
+const CLIENT_URL=process.env.CLIENT_URL;
 const stripe = Stripe(STRIPE_KEY);
 // const getPrice=require("../utils/utils");
 

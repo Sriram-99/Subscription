@@ -5,6 +5,5 @@
     "githubClientId":"bfe0457cf47978ab4d38",
     "githubSecret":"4bf6dcc4129fb2e22d519ccb948a05c0b7a6fe51",
     "githubToken":"bfe0457cf47978ab4d38",
-    "STRIPE_KEY":"sk_test_51NjUwUSGRJm1wRfXNbYyIhN6y4K3JE6YJRy1SDRAAjw4Xo7L1EhBZVUZl8qubjgN16jYA0wWN7mDHsIOP3ccbT5o00gmuetVnc",
-    "CLIENT_URL":"https://subscription-richpanel-j6i5.vercel.app"
+    "STRIPE_KEY":"sk_test_51NjUwUSGRJm1wRfXNbYyIhN6y4K3JE6YJRy1SDRAAjw4Xo7L1EhBZVUZl8qubjgN16jYA0wWN7mDHsIOP3ccbT5o00gmuetVnc"
 }
